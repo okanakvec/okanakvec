@@ -73,14 +73,15 @@ I design and build distributed systems that handle **high transaction volumes** 
 
 ## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=okanakvec&show_icons=true&hide_title=true)
 
 ---
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: (add here)
-- 📫 Email: (add here)
+- 💼 LinkedIn: https://www.linkedin.com/in/okan-akvec/
+- 📫 Email: okanakvec@gmail.com
+- https://www.okanakvec.com
 
 ---
 
